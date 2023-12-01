@@ -12,14 +12,14 @@ const Header: FC = () => {
               mr: "auto",
             }}
           >
-            Youtube DL
+            
           </Link>
           <Link
-            href="https://github.com/RohanDebroy"
+            href=""
             target="__blank"
             rel="noopener"
           >
-            Github
+            
           </Link>
         </Toolbar>
       </Container>
